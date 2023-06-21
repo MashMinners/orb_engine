@@ -3,7 +3,7 @@
     "type": "project",
     "description": "Microframework engine",
     "keywords": [],
-    "license": "GNU GPL-3.0-only",
+    "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
             "Engine\\": "src/Engine"
